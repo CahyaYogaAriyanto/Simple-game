@@ -337,7 +337,7 @@ ol {
   }
 }
 
-/* Fancy animation for showing the "Game Over" element */
+
 @keyframes pop-in {
   0% {
     transform: scale(0);
